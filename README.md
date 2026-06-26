@@ -90,7 +90,7 @@ The following analyses were performed:
 
 ### Pair Plot
 
-![Pair Plot](pairplot.png)
+![pairplot](pairplot.png)
 
 ---
 
